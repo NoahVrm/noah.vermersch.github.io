@@ -2,6 +2,6 @@
 title: Mon super site
 ---
 
-- [Introduction] (intro.md)
-- [Conclusion] (conclusion.md)
+- [Introduction](intro.md)
+- [Conclusion](conclusion.md)
 
